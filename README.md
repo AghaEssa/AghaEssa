@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Agha Essa
 
-<!--
-**AghaEssa/AghaEssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about Artificial Intelligence, Machine Learning, and Data Science.  
+👨‍💻 Skilled in Python, C++, MERN, and Laravel with hands-on project experience in AI-powered apps and full-stack solutions.  
+🚀 Currently exploring advanced AI/ML models and building real-world applications.  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- **Languages:** Python, C++, JavaScript, PHP  
+- **Frameworks:** MERN, Laravel, Django  
+- **Areas of Interest:** AI, ML, Data Science, Full-Stack Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Connect with Me
+- Portfolio: [agha-essa.sysvelop.com](https://agha-essa.sysvelop.com/)  
+- LinkedIn: [Your LinkedIn Link]  
+- Email: aghaessa22jky@gmail.com
