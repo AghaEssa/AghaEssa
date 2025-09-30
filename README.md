@@ -66,7 +66,7 @@ I’m passionate about solving real-world problems using technology. With hands-
 
 - 🌐 Portfolio: [agha-essa.sysvelop.com](https://agha-essa.sysvelop.com/)  
 - 📧 Email: [aghaessa22jky@gmail.com](mailto:aghaessa22jky@gmail.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/agha-essa-khan-0677b731a/)  
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/agha-essa-khan-0677b731a/)  
 - 🐙 GitHub: [github.com/AghaEssa](https://github.com/AghaEssa)  
 
 ---
