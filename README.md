@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Agha Essa Khan
 
-🎓 *Computer Science Student @ UMT (2023–2027)*  
+🎓 *Software Engineer & Web Developer*  
 💡 *AI & Machine Learning | Data Science | Full-Stack Development*
 
 I’m passionate about solving real-world problems using technology. With hands-on experience in *AI-powered applications, desktop tools, and full-stack web development*, I enjoy building innovative and impactful solutions.  
