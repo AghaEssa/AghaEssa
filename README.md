@@ -16,11 +16,17 @@ I’m passionate about solving real-world problems using technology. With hands-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
-**Frameworks & Libraries:**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+**Frameworks & Libraries:** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**Cybersecurity:** ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2B2D31?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2272BB?style=for-the-badge&logo=metasploit&logoColor=white)
 
 **Databases & Tools:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -30,21 +36,19 @@ I’m passionate about solving real-world problems using technology. With hands-
 
 ---
 
-
 ## 🚀 Featured Projects
+
+- *LabOS Management - AI Diagnostic Dashboard* – PHP, Laravel, MySQL, Tailwind CSS, AI Agents  
+  🧪 Web-based lab system with secure access, automated digital workflows, and AI-powered diagnostic reporting.  
+
+- *Safa & Marwa - Travel Agency Portal* – Laravel, PHP, MySQL, Tailwind CSS  
+  ✈️ Complete travel management system with booking, invoicing, and role-based access control (RBAC).  
 
 - *Nova-AI Personal Voice Assistant* – Python, Tkinter, Speech Recognition  
   💬 Desktop assistant with natural speech recognition, task automation, and custom anime-themed GUI.  
 
-- *Cipher_AI Chatbot* – Python  
-  🤖 Desktop chatbot application with conversational AI.  
-
-- *Laboratory Management System (LIMS)* – PHP, Laravel, MySQL  
-  🧪 Digitized patient intake, billing, test orders, and reporting with secure role-based access.  
-
-- *Anime-Themed Website* – HTML, CSS, Bootstrap, Laravel  
-  🎨 Responsive website with modern UI/UX and content management.  
-
+- *Face Mask Detection System* – Python, TensorFlow/Keras, OpenCV  
+  😷 Real-time image classification system to detect mask compliance using live camera input.
 ---
 
 ## 🏆 Achievements
