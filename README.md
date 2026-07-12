@@ -16,8 +16,12 @@ I’m passionate about solving real-world problems using technology. With hands-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
-**Frameworks & Libraries:** 
- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+**Frameworks, Libraries & Tools:** 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white)
@@ -38,8 +42,13 @@ I’m passionate about solving real-world problems using technology. With hands-
 
 ---
 
-
 ## 🚀 Featured Projects
+
+- *AI Quant-Coder - Quantitative Trading RAG Scripting Framework* – Python, Streamlit, Statsmodels (ARIMA), yfinance, Llama-3 (Groq/vLLM), TF-IDF vector RAG, python-docx
+  📈 End-to-end framework combining price statistical forecasting (ARIMA) with a custom Vector RAG codebase to generate and backtest customized algorithmic trading scripts. Accelerated for ROCm on AMD GPU Cloud.  
+
+- *AI-Based Academic Information Extraction & Model Comparison* – Python, GPT-4o, Gemini, Claude, Cohere, LLaMA, pandas, scikit-learn, matplotlib
+  🔍 Automated pipeline designed to extract structured academic metadata (Problem Statements, Methodologies, Keywords) from research abstracts and evaluate LLM performance metrics against human-annotated ground truth.
 
 - *LabOS Management - AI Diagnostic Dashboard* – PHP, Laravel, MySQL, Tailwind CSS, AI Agents  
   🧪 Web-based lab system with secure access, automated digital workflows, and AI-powered diagnostic reporting.  
@@ -56,6 +65,7 @@ I’m passionate about solving real-world problems using technology. With hands-
 
 ## 🏆 Achievements
 
+- 🎖 Participant / Finalist – *AMD Developer Hackathon: Act II (2026)*
 - 🥇 Winner – *UET Codex 3.0 (ITech 2025)*  
 - 🎖 Talent Quest Fest 2.0 – UMT  
 
@@ -68,6 +78,7 @@ I’m passionate about solving real-world problems using technology. With hands-
 - *Matriculation (Biology)* – Unique High School (2019–2021) | Grade: A+  
 
 ---
+
 
 ## 🌍 Connect with Me
 
