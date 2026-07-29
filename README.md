@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Agha Essa Khan
 
-🎓 *Software Engineer & Web Developer*  
-💡 *AI & Machine Learning | Data Science | Full-Stack Development*
+🎓 *AI/ML Engineer & Full-Stack Developer | Python, RAG, NLP, Laravel* 
 
 I’m passionate about solving real-world problems using technology. With hands-on experience in *AI-powered applications, desktop tools, and full-stack web development*, I enjoy building innovative and impactful solutions.  
 
